@@ -18,6 +18,12 @@
      <td>English</td>
      <td>Premium</td>
   </tr>
+   <tr>
+    <td><a target="_blank" href="https://www.youtube.com/watch?v=UgAkn8IsEkk&list=PLwvMCa_o2LavzOWwLZwlcGgCzW6qkCf4O">Belajar React Js</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
 </table>
 
 ## Belajar Dasar Pemrograman Web
